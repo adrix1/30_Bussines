@@ -1,0 +1,45 @@
+#bck{
+  background-image: url("../image/large.jpg");
+  width: 100%;
+  height: 40em;
+  background-size: cover;
+  background-position: center;
+}
+.menu{
+  list-style: none;
+  
+}
+#titulo{
+  color:white;
+  padding-top: 12%;
+  padding-bottom: 10%;
+}
+.blanco{
+  color: white;
+}
+.separador{
+  position: absolute;
+  display: inline-block;
+  margin-top: -1%;
+  height: 10%;
+}
+.User{
+  width: 20%;
+}
+iframe{
+  width: 100%;
+  height: 25em;
+  border: none;
+}
+#bck1{
+  background-image: url("../image/sec-2.jpg");
+  height: 30em;
+  background-size: cover;
+  background-position: center;
+}
+#bck2{
+  background-image: url("../image/banner.jpg");
+  height: 30em;
+  background-size: cover;
+  background-position: center;
+}
